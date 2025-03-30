@@ -6,19 +6,6 @@
     <SOBJ_NAME>LZABAPGIT_UNIT_TESTTOP</SOBJ_NAME>
     <SOBJ_NAME>SAPLZABAPGIT_UNIT_TEST</SOBJ_NAME>
    </INCLUDES>
-   <I18N_TPOOL>
-    <item>
-     <LANGUAGE>D</LANGUAGE>
-     <TEXTPOOL>
-      <item>
-       <ID>I</ID>
-       <KEY>001</KEY>
-       <ENTRY>Test DE</ENTRY>
-       <LENGTH>17</LENGTH>
-      </item>
-     </TEXTPOOL>
-    </item>
-   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
